@@ -1,0 +1,33 @@
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.Form1.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.Properties.Resources.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmDangNhap.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmHangHoa.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmHoaDon.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmKhachHang.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmNhanVien.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.QuanLyNguoiDung.resources
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.csproj.GenerateResource.Cache
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.exe
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.pdb
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.pdb
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.csprojResolveAssemblyReference.cache
+E:\Visua studio\QL_BanHang\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.MyNie.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.pdb
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.csprojAssemblyReference.cache
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.Form1.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.Properties.Resources.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmDangNhap.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmHangHoa.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmHoaDon.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmKhachHang.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmNhanVien.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.QuanLyNguoiDung.resources
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.csproj.GenerateResource.cache
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.exe
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.pdb
+C:\Users\phong\OneDrive\Desktop\QL_BanHang-master\QL_BanHang-master\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmLoaiHH.resources
